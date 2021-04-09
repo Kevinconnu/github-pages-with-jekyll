@@ -7,14 +7,14 @@ I'm glad you are here. I plan to talk about computer things I am learning with a
 
 <p>Click the button below to display not only the time, BUT ALSO THE DATE!!!</p>
 
-<button onclick="getElementById('demo').innerHTML=Date()">Well isn't this convenient.</button>
+<button onclick="getElementById('demo').innerHTML=Date()">Well isn't this date button convenient.</button>
 
 <p id="demo"></p>
 
 </body>
 </html>
 
-[Post 1 - testrun...](https://kevinconnu.github.io/github-pages-with-jekyll/2021/04/08/testrun.html)
+<button onclick="[Post 1 - testrun...](https://kevinconnu.github.io/github-pages-with-jekyll/2021/04/08/testrun.html)</button>
 
 
 
