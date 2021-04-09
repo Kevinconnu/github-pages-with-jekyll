@@ -7,7 +7,7 @@ I'm glad you are here. I plan to talk about computer things I am learning with a
 
 <p>Click the button to display the time.</p>
 
-<button onclick="getElementById('demo').innerHTML=Date()">Well isn't this convenient as all fuck.</button>
+<button onclick="getElementById('demo').innerHTML=Date()">Well isn't this convenient.</button>
 
 <p id="demo"></p>
 
