@@ -14,14 +14,7 @@ I'm glad you are here. I plan to talk about computer things I am learning with a
 </body>
 </html>
 
-{% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
-  <ul>
-    {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
+[Post 1 - testrun]({% github-pages-with-jekyll/_posts/ 2021-04-08-testrun %})
 
 
 
