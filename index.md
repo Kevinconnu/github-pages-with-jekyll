@@ -5,7 +5,7 @@ I'm glad you are here. I plan to talk about computer things I am learning with a
 <html>
 <body>
 
-<p>Click the button to display the time.</p>
+<p>Click the button below to display not only the time, BUT ALSO THE DATE!!!</p>
 
 <button onclick="getElementById('demo').innerHTML=Date()">Well isn't this convenient.</button>
 
