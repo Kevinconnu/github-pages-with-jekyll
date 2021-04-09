@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "baseurl:"
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 #theme (start kev edits)
-theme: merlot
+remote_theme: andrewbanchich/forty-jekyll-theme
 
 # ARE THERE OTHER PEOPLE LOOKING AT THIS???
 # I have no idea wtf I'm doing plz help.
