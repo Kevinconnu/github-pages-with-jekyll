@@ -23,5 +23,5 @@ I'm glad you are here. I plan to talk about computer things I am learning with a
   {% endfor %}
 </ul>
 
-###<button onclick="window.location.href='/_posts/2021-04-08-testrun.md'">Continue</button>
+
 
