@@ -14,7 +14,8 @@ I'm glad you are here. I plan to talk about computer things I am learning with a
 </body>
 </html>
 
-[Post 1 - testrun]({% github-pages-with-jekyll/_posts/ 2021-04-08-testrun %})
+[a relative link](_posts/2021-04-08-testrun.md)
+
 
 
 
