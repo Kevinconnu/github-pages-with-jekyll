@@ -14,7 +14,8 @@ I'm glad you are here. I plan to talk about computer things I am learning with a
 </body>
 </html>
 
-[Post 1 - testrun...](https://kevinconnu.github.io/github-pages-with-jekyll/2021/04/08/testrun.html)
+<button name="button" onclick="https://kevinconnu.github.io/github-pages-with-jekyll/2021/04/08/testrun.html">Post 1 - testrun...</button>
+#[Post 1 - testrun...](https://kevinconnu.github.io/github-pages-with-jekyll/2021/04/08/testrun.html)
 
 
 
